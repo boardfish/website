@@ -1,0 +1,3 @@
+[submodule "src/themes/hugo-tanka"]
+	path = src/themes/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
