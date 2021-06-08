@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import 'semantic-ui-css/semantic.min.css';
-import Home from './Home';
+import Home from './pages/Home';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
